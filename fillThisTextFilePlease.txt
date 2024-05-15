@@ -1,0 +1,73 @@
+Hey Studi,
+it's nice for having you here/wir freuen uns, dass Du an unserer Studie teilnehmen möchtest.
+
+Please fill in this document and send it to this email-adress: st183116@stud.uni-stuttgart.de
+Bitte dieses Dokument ausfüllen und in ilias oder an folgende Email senden: st183116@stud.uni-stuttgart.de
+
+Please answer/Bitte beantworte folgende Fragen:
+
+name/Name: 
+
+age/Alter: 
+
+sex/Geschlecht: 
+
+field of study/Studienfach: 
+
+--------instructions/Anweisungen-------------------------------------------------------------
+If you dont know what to do, translate this instruction please:
+Falls es für dich noch unklar ist erkläre ich kurz wie Du an deine Ergebnisse kommst:
+
+1. Lade den zip-Ordner runter und extrahiere diesen.
+2. Öffne die Datei "JavaScriptTemplate" in deinem Browser.
+3. Drücke "1" (transparente Quadrate) und folge den Anweisungen.
+4. Kopiere deine Ergebnisse zu 1/B1 und füge diese unten ein.
+5. Indem du "2" (Rechteck/Dreieck) drückst sollte sich der nächste Reaktionstest öffnen. Füge danach auch die Ergebnisse bitte unten ein.
+6. Indem du "3" (Einordnung Gerichte) drückst sollte sich der nächste Reaktionstest öffnen. Füge danach auch die Ergebnisse bitte unten ein.
+---------------------------------------------------------------------------------------------
+
+--------results/Ergebnisse-------------------------------------------------------------------
+
+1/B1 (transparente Quadrate)
+
+Mean [ms]:
+
+SD [ms]:
+
+Correlation:
+
+Mistakes Rate [%]:
+
+--------------------------
+2/B2 (Rechteck/Dreieck)
+
+Mean [ms]:
+
+Mean purple [ms]:
+
+Mean orange [ms]:
+
+SD [ms]:
+
+SD Purple [ms]:
+
+SD Orange [ms]:
+
+Mistakes Rate [%]:
+
+Mistakes rate purple [%]:
+
+Mistakes rate orange [%]:
+
+--------------------------
+3/B3 (Einordnung Gerichte)
+
+Mean [ms]: 
+
+SD [ms]: 
+
+German mistakes rate [%]:
+
+Chinese mistakes rate [%]:
+
+Mexican mistakes rate [%]:
